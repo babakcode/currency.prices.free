@@ -46,7 +46,7 @@ Response:
 ```
 
 
-API docs: [Documantation 👈🏻](https://currency.babakcode.com/docs)
+API docs: [Documentation 👈🏻](https://currency.babakcode.com/docs)
 
 ![Screenshot 2024-07-29 010842](https://github.com/user-attachments/assets/68e283fd-f733-45a3-a8fe-bb31350ec973)
 

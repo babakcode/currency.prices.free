@@ -45,6 +45,43 @@ Response:
 ]
 ```
 
+برای گرفتن قیمت دلار از endpoint مشخص شده زیر استفاده کنید.
+
+`irr` به معنی iranian rial
+```js
+
+// request
+fetch('https://currency.babakcode.com/api/v1/currency/irr' ,{
+    method: "GET",
+    headers: {
+      "Content-Type": "application/json",
+      "Accept": "application/json",
+      "api-key": "YOUR-API-KEY",
+  }
+})
+  .then(res => res.json())
+  .then(json => console.log(json))
+```
+
+Response:
+```json
+[
+  {
+    "currency": "usd",
+    "priceStr": "589,570",
+    "price": 589570,
+    "name": "دلار"
+  },
+  {
+    "currency": "eur",
+    "priceStr": "639,100",
+    "price": 639100,
+    "name": "یورو"
+  }
+]
+```
+
+
 
 API docs: [Documentation 👈🏻](https://currency.babakcode.com/docs)
 

@@ -12,7 +12,7 @@ Before testing the API or integrating it into your application, you need to obta
 2. Sign up or log in to your account.
 3. Generate a new API key from the dashboard.
 
-Once you have your API key, you can test all available endpoints through the  [`/docs`](/docs) path.
+Once you have your API key, you can test all available endpoints through the  [`/docs`](https://currency.babakcode.com/docs) path.
 
 ---
 
@@ -39,7 +39,7 @@ We provide an interactive **Swagger documentation** where you can:
 2. Test API calls directly in your browser.
 3. Explore response formats and data structures.
 
-The Swagger documentation is accessible at the [`/docs`](/docs) path of the API.
+The Swagger documentation is accessible at the [`/docs`](https://currency.babakcode.com/docs) path of the API.
 
 ![Online Currency API Swagger](./img/swagger.png)
 

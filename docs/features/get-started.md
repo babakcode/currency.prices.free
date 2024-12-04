@@ -57,7 +57,7 @@ Using GraphQL, you can fetch exactly the fields you need, reducing response size
 
   ```graphql
   query {  
-    cryptoAll(target: "USD") {  
+    cryptoAll(base: "USD") {  
       symbol,  
       logo,  
       name,  

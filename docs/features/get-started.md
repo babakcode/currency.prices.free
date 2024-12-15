@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ### 🔑 **Getting Started: Obtain Your API Key**
 Before testing the API or integrating it into your application, you need to obtain a free API key:
-1. Visit **[https://api.babakcode.com](https://api.babakcode.com)**.
+1. Visit **[https://babakcode.com](https://babakcode.com)**.
     ![api BabakCode com](./img/api-babakcode-com-01.png)
 
 2. Sign up or log in to your account.

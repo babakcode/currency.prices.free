@@ -80,7 +80,7 @@ const config: Config = {
       title: 'Online Currency API',
       logo: {
         alt: 'Currency Prices API for free',
-        src: 'img/apple-touch-icon.png',
+        src: 'img/favicon-96x96.png',
       },
       items: [
         {
@@ -114,7 +114,7 @@ const config: Config = {
           items: [
             {
               label: 'Youtube',
-              href: 'https://Youtube.com/@BabakCode',
+              href: 'https://YouTube.com/@BabakCode',
             },
           ],
         },

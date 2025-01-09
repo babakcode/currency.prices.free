@@ -14,7 +14,7 @@ const FeatureList: FeatureItem[] = [
     img: <img src={'/img/undraw_img_01.png'} alt={'Multi-Protocol Support'} className={styles.featureSvg}/>,
     description: (
       <>
-          Access our API through <strong>gRPC</strong>, <strong>HTTP</strong>, <strong>GraphQL</strong>, or <strong>WebSocket</strong>.
+          Access our API through <strong>HTTP</strong>, <strong>GraphQL</strong>, or <strong>WebSocket</strong>.
           Choose the protocol that fits your project and integrate seamlessly with our flexible endpoints.
       </>
     ),

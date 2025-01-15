@@ -1,16 +1,13 @@
 # Currency Prices Free
-Free web service to get currency prices - وب سرویس رایگان دریافت قیمت ارز
+Free web service to get currency prices
 
+Checkout this [website 👈🏻](https://babakcode.com)
 
-برای دریافت سرویس رایگان قیمت ارز، هم برای کریپتو هم برای دلار و یورو و ... به وبسایت لینک شده زیر سر بزنید.
+![Screenshot 2025-01-15 185120](https://github.com/user-attachments/assets/896456b6-3276-4878-b48d-7043af90af83)
 
+### Cryptocurrencies
 
-Checkout this [website 👈🏻](https://api.babakcode.com)
-
-![Screenshot-2024-07-29-005736](https://github.com/user-attachments/assets/032046ad-8511-475f-8d75-ea77dfd01540)
-
-
-```js
+```javascript
 
 // request
 fetch('https://currency.babakcode.com/api/v2/crypto/all/USD' ,{
@@ -47,10 +44,12 @@ Response:
 ]
 ```
 
-برای گرفتن قیمت دلار از endpoint مشخص شده زیر استفاده کنید.
+---
 
-`irr` به معنی iranian rial
-```js
+### Fiat Currencies
+
+`USD`, United State Dollar
+```javascript
 
 // request
 fetch('https://currency.babakcode.com/api/v2/currency/all/USD' ,{
@@ -93,8 +92,4 @@ API docs: [Documentation 👈🏻](https://currency.babakcode.com/docs)
 
 ![Screenshot 2024-07-29 010842](https://github.com/user-attachments/assets/68e283fd-f733-45a3-a8fe-bb31350ec973)
 
-Hope you enjoy it 🤍
-
-
-اگر خدمات ما را ارزشمند می دانید، لطفاً برای این ریپو یک ستاره بگذارید.
-با احترام، بابک قهرمان زاده
+I hope you enjoy it 🤍

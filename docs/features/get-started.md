@@ -7,7 +7,7 @@ sidebar_position: 1
 ### 🔑 **Getting Started: Obtain Your API Key**
 Before testing the API or integrating it into your application, you need to obtain a free API key:
 1. Visit **[https://babakcode.com](https://babakcode.com)**.
-    ![api BabakCode com](./img/api-babakcode-com-01.png)
+    ![api BabakCode com](/img/md/api-babakcode-com-01.png)
 
 2. Sign up or log in to your account.
 3. Generate a new API key from the dashboard.
@@ -41,7 +41,7 @@ We provide an interactive **Swagger documentation** where you can:
 
 The Swagger documentation is accessible at the [`/docs`](https://currency.babakcode.com/docs) path of the API.
 
-![Online Currency API Swagger](./img/swagger.png)
+![Online Currency API Swagger](/img/md/swagger.png)
 
 ---
 
@@ -51,6 +51,8 @@ The **GraphQL** integration allows you to query cryptocurrency data with precisi
 Using GraphQL, you can fetch exactly the fields you need, reducing response size and improving efficiency.
 
 ### 📘 **Example API Query for GraphQL**
+
+See the playground site [https://currency.babakcode.com/graphql](https://currency.babakcode.com/graphql)
 
 - **Query: `cryptoAll`**  
   Fetch all supported cryptocurrencies with customizable fields like `symbol`, `name`, `logo`, `price`, and `timestamp`, targeting a specific base currency (e.g., **USD**).
@@ -70,4 +72,4 @@ Using GraphQL, you can fetch exactly the fields you need, reducing response size
 
 With **GraphQL**, you can build highly efficient and tailored queries for your cryptocurrency data needs. Try it out in the Swagger documentation now!
 
-![Online Currency API Swagger](./img/graphql.png)
+![Online Currency API Swagger](/img/md/graphql.png)

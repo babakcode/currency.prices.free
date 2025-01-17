@@ -47,7 +47,7 @@ To begin exploring how to get currency prices using different API communication 
 #### 🔑 **Obtain Your API Key**
 Before testing the API or integrating it into your application, you need to obtain a free API key:
 1. Visit **[https://babakcode.com](https://babakcode.com)**.
-   ![api BabakCode com](./features/img/api-babakcode-com-01.png)
+   ![api BabakCode com](/img/md/api-babakcode-com-01.png)
 
 2. Sign up or log in to your account.
 3. Generate a new API key from the currency apps page.
@@ -56,9 +56,9 @@ Once you have your API key, you can test all available endpoints through the  [`
 
 ### HTTP Requests
 
-Visit our [Swagger documentation](/docs) to explore how HTTP requests are used to fetch currency prices. Swagger provides an interactive interface to test and understand API endpoints effectively.
+Visit our [Swagger documentation](https://currency.babakcode.com/docs) to explore how HTTP requests are used to fetch currency prices. Swagger provides an interactive interface to test and understand API endpoints effectively.
 
-![Swagger HTTP API Example](./features/img/swagger.png)
+![Swagger HTTP API Example](/img/md/swagger.png)
 
 Or you can visit the protocol guides page related to [http](/doc/protocol-guides/http).
 
@@ -68,7 +68,7 @@ Or you can visit the protocol guides page related to [http](/doc/protocol-guides
 
 Dive into our [GraphQL API guide](/doc/protocol-guides/graphql) to learn how to query currency prices with precision using GraphQL. This tool emphasizes flexibility and efficiency in retrieving data.
 
-![GraphQL Example](./features/img/graphql.png)
+![GraphQL Example](/img/md/graphql.png)
 
 ---
 

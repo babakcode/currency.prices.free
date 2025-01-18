@@ -40,7 +40,7 @@ const fiatPackageDefinition = protoLoader.loadSync(fiatProtoPath);
 const fiatGrpc = grpc.loadPackageDefinition(fiatPackageDefinition).fiat;
 
 // gRPC Server address
-const serverAddress = 'localhost:50051'; // Replace with your server address
+const serverAddress = 'grpc.babakcode.com'; // Replace with your server address
 
 // Example function to get a single Crypto object
 function getCrypto(base, symbol) {
@@ -194,7 +194,7 @@ service FiatService {
 2. **Create a gRPC Request:**
 
     - Click **New Request** and select `gRPC`.
-    - Enter the server address (e.g., `localhost:50051`).
+    - Enter the server address (e.g., `grpc.babakcode.com`).
 
 3. **Define gRPC Body:**
 

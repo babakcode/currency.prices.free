@@ -92,4 +92,19 @@ API docs: [Documentation 👈🏻](https://currency.babakcode.com/docs)
 
 ![Screenshot 2024-07-29 010842](https://github.com/user-attachments/assets/68e283fd-f733-45a3-a8fe-bb31350ec973)
 
+
+## Projects Using This API
+
+The following project utilizes this API to provide real-time cryptocurrency price updates:
+
+### [NeoCrypto](https://github.com/AmirrezaKhezerlou/neo_crypto)
+A Windows application built with Flutter that displays live cryptocurrency prices.
+
+[![NeoCrypto Screenshot](https://raw.githubusercontent.com/AmirrezaKhezerlou/neo_crypto/refs/heads/main/shot2.png)](https://github.com/AmirrezaKhezerlou/neo_crypto/releases/)  
+
+🔗 **[Download NeoCrypto](https://github.com/AmirrezaKhezerlou/neo_crypto/releases/)**
+
+If you have built a project using this API, feel free to submit a pull request to add it here!
+
+
 I hope you enjoy it 🤍

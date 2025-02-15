@@ -97,12 +97,19 @@ API docs: [Documentation 👈🏻](https://currency.babakcode.com/docs)
 
 The following project utilizes this API to provide real-time cryptocurrency price updates:
 
-### [NeoCrypto](https://github.com/AmirrezaKhezerlou/neo_crypto)
+### • [NeoCrypto](https://github.com/AmirrezaKhezerlou/neo_crypto)
 A Windows application built with Flutter that displays live cryptocurrency prices.
 
 [![NeoCrypto Screenshot](https://raw.githubusercontent.com/AmirrezaKhezerlou/neo_crypto/refs/heads/main/shot2.png)](https://github.com/AmirrezaKhezerlou/neo_crypto/releases/)  
 
 🔗 **[Download NeoCrypto](https://github.com/AmirrezaKhezerlou/neo_crypto/releases/)**
+
+### • [CurryptoWatch](https://github.com/1tsmhmd/Currypto_Watch)
+🤖 A bot that sends real-time cryptocurrency rates to your Telegram channel.
+
+[![CurrypwoWatcch Screenshot](https://raw.githubusercontent.com/1tsmhmd/currypto_watch/refs/heads/main/pics/ban.webp)](https://github.com/1tsmhmd/Currypto_Watch)  
+
+🔗 **[See Currypto Watch](https://github.com/AmirrezaKhezerlou/neo_crypto/releases/)**
 
 If you have built a project using this API, feel free to submit a pull request to add it here!
 

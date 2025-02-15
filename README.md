@@ -109,7 +109,7 @@ A Windows application built with Flutter that displays live cryptocurrency price
 
 [![CurrypwoWatcch Screenshot](https://raw.githubusercontent.com/1tsmhmd/currypto_watch/refs/heads/main/pics/ban.webp)](https://github.com/1tsmhmd/Currypto_Watch)  
 
-🔗 **[See Currypto Watch](https://github.com/AmirrezaKhezerlou/neo_crypto/releases/)**
+🔗 **[See Currypto Watch](https://github.com/1tsmhmd/currypto_watch)**
 
 If you have built a project using this API, feel free to submit a pull request to add it here!
 
